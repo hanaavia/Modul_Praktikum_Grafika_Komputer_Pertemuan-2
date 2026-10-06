@@ -1,6 +1,6 @@
-# Modul Praktikum Grafika Komputer --- Pertemuan 2
+# Modul Praktikum Grafika Komputer - Pertemuan 2
 
-## WebGL Fundamental --- WebGL Primitive Playground
+## WebGL Fundamental - WebGL Primitive Playground
 
 ## 1. Deskripsi Praktikum
 
